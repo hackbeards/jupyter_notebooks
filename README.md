@@ -8,7 +8,7 @@
 
 # jupyter_notebooks
 
-```.
+```ascii.
 |-- notebooks
 |   |-- pictures
 |   |   `-- example.png
