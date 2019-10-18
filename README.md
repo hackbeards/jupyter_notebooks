@@ -9,14 +9,16 @@
 # jupyter_notebooks
 
 ```ascii.
+.
 |-- notebooks
 |   |-- pictures
 |   |   `-- example.png
 |   |-- textfiles
-|   |   |-- 0_deg_wavefront.txt
-|   |   |-- 10_deg_wavefront.txt
-|   |   `-- textfile.txt
-|   |-- WavefrontMap.ipynb
+|   |   |-- Abekoeff.py
+|   |   |-- seidel_koeffizienten.txt
+|   |   |-- wavefront_0_deg_ascii.txt
+|   |   `-- wavefront_10_deg_ascii.txt
+|   `-- WavefrontMap.ipynb
 |-- README.md
 ```
 
