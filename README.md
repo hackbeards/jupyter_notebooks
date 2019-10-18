@@ -18,8 +18,13 @@
 |   |   |-- seidel_koeffizienten.txt
 |   |   |-- wavefront_0_deg_ascii.txt
 |   |   `-- wavefront_10_deg_ascii.txt
-|   `-- WavefrontMap.ipynb
+|   |-- WavefrontMap.ipynb
+|   `-- WavefrontMap.md
 |-- README.md
+|-- tree_ascii.txt
+`-- tree.txt
+
+3 directories, 10 files
 ```
 
 
